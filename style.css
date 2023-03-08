@@ -55,7 +55,7 @@ footer {
 }
 img{ 
     position: absolute;
-    bottom: 200px;
+    bottom: 150px;
     right: 500px;
     z-index: -2;
 }
